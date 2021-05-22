@@ -1,0 +1,34 @@
+.addInput{
+    color: black ;
+    padding: 10px 60px; 
+    border-radius: 10px;
+}
+
+.todo{
+    background-color:black;
+    height: 450px;
+    width: 450px;
+    border-radius: 15px;
+    margin-left: 370px
+}
+
+.addButton{
+    padding: 10px 45px;
+    border-radius: 10px;
+}
+
+li{
+    color: white;
+    margin-top: 10px;
+    list-style: none;
+}
+.check{
+    margin-left: 25px;
+}
+.close{
+    margin-left: 190px;
+}
+.fa-trash-alt::before{
+    margin-left: 200px;
+    font-size: 20px;
+}
